@@ -1,7 +1,7 @@
 ### Saudações! Me chamo Eric de Jesus ✌️ 
 
 [![linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )]( https://www.linkedin.com/in/ericejs/ )
-[![whatsapp]( https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white )]( https://www.instagram.com/_ejs28/ )
+[![whatsapp]( https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white )]( https://api.whatsapp.com/send?phone=5571986868558 )
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]( ... )
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericejs&show_icons=true&theme=radical)
