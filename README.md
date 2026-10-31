@@ -16,6 +16,5 @@
 ## 🚀 Sobre mim 
 
 - Apaixonado por tecnologias, informática e games 😊
-- Graduado em Analise e Desenvolvimento de Sistemas, e também faço o curso Full Stack da B7Web 💻
-- Atualmente estou atuando na area de suporte te infraestrutura.
+- Graduado em Analise e Desenvolvimento de Sistemas, trabalho atualmente como Tecnico de Informática 💻
 - Bem feito é melhor do que perfeito
